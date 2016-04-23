@@ -91,6 +91,8 @@ footer{
   clear: both;
   padding-top: 50px;
   color: #ccc;
+  background: ;
+  
 }
 
 .social-icon {
@@ -182,10 +184,12 @@ body {
 }
 
 /* blue header */
-header {
+header,
+footer {
   background: #1ac6ff;
   border-color: #1ac6ff;
 }
+
 
 /* nav background on mobile */
 nav {
